@@ -19,11 +19,13 @@ Role-based access control (Admin and User)
 Job Listing CRUD Operations
 Apply for Jobs
 View Applied Jobs
-Search for Jobs
+Search for Jobs![Screenshot 2024-05-27 180211](https://github.com/amarupa12/JOBPORTAL-PROJECT/assets/114008648/a979d0f3-65f6-46bb-a490-7a82774b0526)
+
 Technologies Used
 Spring Framework: Core framework used for dependency injection and aspect-oriented programming.
 Spring Boot: Simplifies the configuration and deployment of the application.
 Thymeleaf: Template engine for rendering HTML views.
+
 Spring Security: Provides authentication and authorization.
 JDBC: Used for database connectivity and operations.
 SQL: Relational database for storing application data.
